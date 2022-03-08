@@ -1,0 +1,33 @@
+
+.gadna{
+    /* text-align: center; */
+    width: 100vw;
+}
+.dund{
+    display: flex;
+    width: 100vw;
+}
+.dund2{
+    display: flex;
+    width: 100vw;
+    
+    
+}
+
+.dotor{
+    background-color: aqua; 
+    width:33vw; 
+    height: 400px ;
+    border: 1px solid black;
+    border-radius: 10%;
+    text-align: center;
+}
+.dotor1{
+    background-color: aqua; 
+    width:50vw; 
+    height: 400px ;
+    border: 1px solid black;
+    border-radius: 10%;
+    text-align: center;
+}
+
